@@ -1,0 +1,57 @@
+# Android
+**/build/
+**/bin/
+**/gen/
+**/proguard/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Gradle
+**/.gradle/
+**/local.properties
+**/gradle/wrapper/gradle-wrapper.jar
+!**/gradle/wrapper/gradle-wrapper.properties
+**/.kotlin/
+
+# IDE - Android Studio / IntelliJ
+**/.idea/
+!**/.idea/codeStyles/
+!**/.idea/copyright/
+**/*.iml
+**/*.iws
+**/*.ipr
+**/out/
+
+# IDE - Eclipse
+**/.project
+**/.classpath
+**/.settings/
+**/.loadpath
+**/.externalToolBuilders/
+**/*.launch
+**/.cproject
+**/.buildpath
+**/.metadata
+
+# OS
+**/.DS_Store
+**/Thumbs.db
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~
+**/*~.nib
+
+# Python (if any)
+**/*.pyc
+**/*.pyo
+**/__pycache__/
+
+# Project Specific
+**/captures/
+**/projectFilesBackup/
+**/reports/
+**/report/
+**/app/release/

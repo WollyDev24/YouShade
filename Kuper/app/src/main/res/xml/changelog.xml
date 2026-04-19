@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version title="v1.0.0" />
+    <item text="Added: Expressive Music Widget" />
+    <item text="Added: Expressive Battery Widget" />
+    <item text="Added: Expressive Base Widget" />
+    <item text="Added: Wallpaper from Pixel 8 and 8 Pro" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>

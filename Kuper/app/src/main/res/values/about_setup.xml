@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://github.com/WollyDev24/YouShade/blob/main/assets/pfp.png?raw=true</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Wolly</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Creator of YouShade</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Github</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://github.com/WollyDev24/</item>
+    </string-array>
+</resources>
