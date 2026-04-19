@@ -1,5 +1,76 @@
 [
 	{
+		"name": "Pixel 8 Haze Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-haze-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},	{
+		"name": "Pixel 8 Jade Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-jade-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Licorice Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-Licorice-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Peony Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-peony-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Pro Jade Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-pro-jade-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Pro Licorice Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-pro-licorice-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+		{
+		"name": "Pixel 8 Pro Licorice Light",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-pro-licorice-light.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Pro Porcelain Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-pro-porcelain-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Pixel 8 Pro Sky Dark",
+		"author": "Google",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-sky-jade-dark.jpg?raw=true",
+		"collections": "GOOGLE|CRYSTALS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
 		"name": "Material You Green",
 		"author": "Wolly",
 		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/Phone%20Green.png?raw=true",
@@ -7,6 +78,7 @@
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
+
 	{
 		"name": "Material You Blue",
 		"author": "Wolly",
