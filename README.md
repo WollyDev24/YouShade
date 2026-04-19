@@ -1,7 +1,7 @@
 # YouShade
 
 <p align="center">
-  <img src="assets/logo.png" alt="App Icon" width="128"/>
+  <img src="assets/icon.png" alt="App Icon" width="128"/>
 </p>
 
 <p align="center">
