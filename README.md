@@ -22,6 +22,7 @@
 [![github](assets/github.svg)](https://github.com/WollyDev24/YouShade/releases)
 [![obtainium](assets/obtainium.svg)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/WollyDev24/YouShade)
 <!-- [![fdroid](assets/fdroid.svg)](https://fdroid.org) -->
+[![fdroid](assets/fdroid.png)](https://fdroid.org)
 
 # 🛠️ Good to know stuff
 
