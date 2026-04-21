@@ -11,7 +11,7 @@
 
 # ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
 
-# 🖼️ Current Widgets 
+# 🖼️ Current Widgets and Content
 
 | Name | Description |
 |----------|------------|
@@ -20,6 +20,8 @@
 | **Double Music Widget** | Widget with dedicated skip buttons in an drop form |
 | **Search Widget** | Widget for opening Google, Gemini or launching song search |
 | **Base Widget** | Use this widget to make your own |
+
+### Included in the app are also some wallpaper
 
 # ⬇️ Get YouShade Expressive from here
 
