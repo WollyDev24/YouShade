@@ -9,6 +9,7 @@
   Dashboard built with Kuper
 </p>
 
+# ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
 
 # 🖼️ Current Widgets 
 
