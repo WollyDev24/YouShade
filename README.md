@@ -18,7 +18,7 @@
 | **Battery Widget** | Widget that shows your Battery with a progess around it |
 | **Double Music Widget** | Widget with dedicated skip buttons in an drop form |
 | **Search Widget** | Widget for opening Google, Gemini or launching song search |
-| **Dase Widget** | Use this widget to make your own |
+| **Base Widget** | Use this widget to make your own |
 
 # ⬇️ Get YouShade Expressive from here
 
