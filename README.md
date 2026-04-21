@@ -9,6 +9,7 @@
   Dashboard built with Kuper
 </p>
 
+
 # 🖼️ Current Widgets 
 
 | Name | Description |
@@ -23,6 +24,10 @@
 [![obtainium](assets/obtainium.svg)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/WollyDev24/YouShade)
 <!-- [![fdroid](assets/fdroid.svg)](https://fdroid.org) -->
 <!-- [![fdroid](assets/fdroid.png)](https://fdroid.org) -->
+
+<p align="center">
+  <img src="assets/banner.png" alt="App Banner" width="1024"/>
+</p>
 
 # 🛠️ Good to know stuff
 
