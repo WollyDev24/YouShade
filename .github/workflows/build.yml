@@ -33,3 +33,9 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew clean assembleDebug --full-stacktrace
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: YouShade-Debug
+          path: Kuper/app/build/outputs/apk/debug/*.apk
