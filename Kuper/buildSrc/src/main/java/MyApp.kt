@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "dev.wolly.youshade"
-    const val version = 110
-    const val versionName = "1.1"
+    const val version = 120
+    const val versionName = "1.2"
 }
