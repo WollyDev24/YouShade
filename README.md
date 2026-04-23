@@ -30,7 +30,7 @@
 [![fdroid](assets/get-it-on-fdroid.png)](https://fdroid.org)
 <!-- [![fdroid](assets/fdroid.png)](https://fdroid.org) -->
 
-<img src="assets/github.webp" alt="Get it on Gihtub" width="30"/>
+<img src="assets/github.webp" alt="Get it on Gihtub" width="50"/>
 
 <p align="center">
   <img src="assets/banner.png" alt="App Banner" width="1024"/>
