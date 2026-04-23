@@ -36,9 +36,9 @@
 </a>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="App Banner" width="512"/>
-</p>
+</p> -->
 
 # 🛠️ Good to know stuff
 
