@@ -25,13 +25,15 @@
 
 # ⬇️ Get YouShade Expressive from here
 
-<!-- [![github](assets/github.webp)](https://github.com/WollyDev24/YouShade/releases)
-[![obtainium](assets/obtainium.png)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/WollyDev24/YouShade)
-[![fdroid](assets/get-it-on-fdroid.png)](https://fdroid.org)
-<!-- [![fdroid](assets/fdroid.png)](https://fdroid.org) -->
-
-<img src="assets/github.webp" alt="Get it on Gihtub" width="150"/>
-<img src="assets/obtainium.png" alt="Get it on Gihtub" width="150"/>
+<a href="https://github.com/WollyDev24/YouShade/releases">
+  <img src="assets/github.webp" alt="Get it on GitHub" width="150"/>
+</a>
+<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/WollyDev24/YouShade">
+  <img src="assets/obtainium.png" alt="Get it on Obtainium" width="150"/>
+</a>
+<a href="https://fdroid.org">
+  <img src="assets/get-it-on-fdroid.png" alt="Get it on F-Droid" width="150"/>
+</a>
 
 
 <p align="center">
