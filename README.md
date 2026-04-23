@@ -31,6 +31,8 @@
 <!-- [![fdroid](assets/fdroid.png)](https://fdroid.org) -->
 
 <img src="assets/github.webp" alt="Get it on Gihtub" width="150"/>
+<img src="assets/obtainium.png" alt="Get it on Gihtub" width="150"/>
+
 
 <p align="center">
   <img src="assets/banner.png" alt="App Banner" width="512"/>
