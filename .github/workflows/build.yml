@@ -5,10 +5,14 @@ on:
     branches:
       - main
       - master
+    paths:
+      - 'Kuper/**'
   push:
     branches:
       - main
       - master
+    paths:
+      - 'Kuper/**'
 
 jobs:
   build:
