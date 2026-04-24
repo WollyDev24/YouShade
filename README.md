@@ -32,7 +32,7 @@
   <img src="assets/obtainium.png" alt="Get it on Obtainium" width="150"/>
 </a>
 <a href="https://fdroid.org">
-  <img src="assets/get-it-on-fdroid.png" alt="Get it on F-Droid" width="150"/>
+  <img src="assets/fdroid.png" alt="Get it on F-Droid" width="150"/>
 </a>
 
 
