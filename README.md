@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Beatiful Material Expressive Inspired widgets for KWGT</strong><br>
-  Dashboard built with Kuper
+  Dashboard built using Kuper
 </p>
 
 <div align="center">    
