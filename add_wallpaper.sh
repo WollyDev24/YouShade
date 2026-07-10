@@ -39,7 +39,7 @@ cp "$SOURCE_FILE" "$DEST"
 echo "Copied $FILENAME to $WALLPAPER_DIR/"
 
 ENCODED_FILENAME="$(python3 -c "import urllib.parse; print(urllib.parse.quote('$FILENAME'))")"
-URL="$BASE_URL/$ENCODED_FILENAME"
+URL="$BASE_URL/$ENCODED_FILENAME?raw=true"
 
 python3 -c "
 import json, sys
