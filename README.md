@@ -11,7 +11,7 @@
 
 <div align="center">    
   <a href="https://github.com/WollyDev24/YouShade/actions/workflows/build.yml">
-    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/WollyDev24/YouShade/build.yml?stylefor-the-badge=label=Debug%20Build">
+    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/WollyDev24/YouShade/build.yml?style=for-the-badge=label=Debug%20Build">
   </a>
 
   <a href="https://github.com/WollyDev24/YouShade/actions/workflows/build.yml">
