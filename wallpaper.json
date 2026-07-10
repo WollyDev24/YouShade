@@ -6,7 +6,8 @@
 		"collections": "GOOGLE|CRYSTALS",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
-	},	{
+	},
+	{
 		"name": "Pixel 8 Jade Dark",
 		"author": "Google",
 		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-jade-dark.jpg?raw=true",
@@ -46,7 +47,7 @@
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
-		{
+	{
 		"name": "Pixel 8 Pro Licorice Light",
 		"author": "Google",
 		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/google-pixel-8-pro-licorice-light.jpg?raw=true",
@@ -78,7 +79,6 @@
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
-
 	{
 		"name": "Material You Blue",
 		"author": "Wolly",
@@ -100,6 +100,14 @@
 		"author": "Wolly",
 		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/Phone%20Brownish.png?raw=true",
 		"collections": "MATERIAL|ABSTRACT",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "HuTao and Furina",
+		"author": "Wolly",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/HuTaoFurina.png",
+		"collections": "OC/ANIME",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
