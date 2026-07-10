@@ -26,22 +26,10 @@
     <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a> -->
 </div>
 
+
 # ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
 
-# 🖼️ Current Widgets and Content
-
-| Name | Description |
-|----------|------------|
-| **Music Widget** | Widget for Music, click on the left or right to skip/go back |
-| **Battery Widget** | Widget that shows your Battery with a progess around it |
-| **Double Music Widget** | Widget with dedicated skip buttons in an drop form |
-| **Search Widget** | Widget for opening Google, Gemini or launching song search |
-| **Base Widget** | Use this widget to make your own |
-
-### Included in the app are also some wallpaper
-
 # ⬇️ Get YouShade Expressive from here
-
 <!-- <a href="https://github.com/WollyDev24/YouShade/releases">
   <img src="assets/github.webp" alt="Get it on GitHub" width="150"/>
 </a>
