@@ -21,6 +21,7 @@
   <a> 
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/WollyDev24/YouShade/total?style=for-the-badge">
   </a>
+</p>
 
 
 ## ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
