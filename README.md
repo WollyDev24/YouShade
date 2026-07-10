@@ -21,13 +21,11 @@
   <a> 
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/WollyDev24/YouShade/total?style=for-the-badge">
   </a>
-<!--  <a href="https://discord.gg/3x8qNWxgGZ">
-    <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a> -->
 
 
-# ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
+## ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
 
-# ⬇️ Get YouShade Expressive from here
+## ⬇️ Get YouShade Expressive from here
 <!-- <a href="https://github.com/WollyDev24/YouShade/releases">
   <img src="assets/github.webp" alt="Get it on GitHub" width="150"/>
 </a>
@@ -46,7 +44,7 @@
     <img src="assets/github.webp" alt="Get it on GitHub" height="60" /></a>
 </p>
 
-# 🛠️ Good to know stuff
+## 🛠️ Good to know stuff
 
 ### if you just want the widgets and no app:
 - All widgets are in ``Kuper/app/src/assets/widgets``. just remove the .zip from every file to use them
