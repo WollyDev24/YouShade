@@ -10,9 +10,9 @@
 </p>
 
 <div align="center">    
-  <a href="https://github.com/WollyDev24/YouShade/actions/workflows/build.yml">
+<!--  <a href="https://github.com/WollyDev24/YouShade/actions/workflows/build.yml">
     <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/WollyDev24/YouShade/build.yml?style=for-the-badge=label=Debug%20Build">
-  </a>
+  </a> -->
 
   <a href="https://github.com/WollyDev24/YouShade/actions/workflows/build.yml">
     <img alt="GitHub License" src="https://img.shields.io/github/license/WollyDev24/YouShade?style=for-the-badge">
@@ -20,11 +20,9 @@
 
   <a> 
     <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/WollyDev24/YouShade/total?style=for-the-badge">
-
   </a>
 <!--  <a href="https://discord.gg/3x8qNWxgGZ">
     <img alt="Discord" src="https://img.shields.io/discord/803299970169700402?logo=discord&logoColor=white&label=Discord&color=5165f6"></a> -->
-</div>
 
 
 # ⚠️ This isn't an standalone app, you need [KWGT](https://play.google.com/store/apps/details?id=org.kustom.widget) too
