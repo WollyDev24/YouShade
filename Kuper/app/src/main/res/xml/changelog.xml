@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.3" />
+    <item text="Added: Multi Size Music Widget" />
+
+
     <version title="v1.2" />
     <item text="Added: Weather Widget" />
     <item text="Updated: Music Widget (please add the widget again to update it)" />
