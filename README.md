@@ -45,10 +45,11 @@
     <img src="assets/github.webp" alt="Get it on GitHub" height="60" /></a>
 </p>
 
-## 🛠️ Good to know stuff
-
+## 🛠️ Extra Stuff
 ### if you just want the widgets and no app:
 - All widgets are in ``Kuper/app/src/assets/widgets``. just remove the .zip from every file to use them
+
+### All wallpaper of the app are in ``Kuper/app/src/assets/wallpapers``
 
 ### building the app from source:
 
@@ -60,3 +61,9 @@ git clone https://github.com/WollyDev24/YouShade/
 - open the ``Kuper`` folder in Android studio (ONLY the Kuper folder!)
 - wait for gradle to sync
 - build the app
+ ### if you also want to use kuper and add your own walls:
+- Use the ```add_wallpaper.sh```script
+- ```bash
+- ./add_wallpaper.sh 
+- ```
+- - Script tells you what to do next
