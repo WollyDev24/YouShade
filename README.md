@@ -63,7 +63,7 @@ git clone https://github.com/WollyDev24/YouShade/
 - build the app
  ### if you also want to use kuper and add your own walls:
 - Use the ```add_wallpaper.sh```script
-- ```bash
-- ./add_wallpaper.sh 
-- ```
+```bash
+./add_wallpaper.sh 
+```
 - - Script tells you what to do next
