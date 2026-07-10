@@ -62,7 +62,7 @@ git clone https://github.com/WollyDev24/YouShade/
 - wait for gradle to sync
 - build the app
  ### if you also want to use kuper and add your own walls:
-- Use the ```add_wallpaper.sh```script
+- Use the ```add_wallpaper.sh```script (this script is tailored for my repo! adjust the url to your own repo)
 ```bash
 ./add_wallpaper.sh 
 ```
