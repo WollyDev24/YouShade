@@ -110,5 +110,29 @@
 		"collections": "OC/ANIME",
 		"downloadable": true,
 		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Anime Orange",
+		"author": "---",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/cmeoowj.png?raw=true",
+		"collections": "ANIME",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Blossoms",
+		"author": "Backdrops",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/Blossoms.png?raw=true",
+		"collections": "FLOWERS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Spring Time",
+		"author": "Backdrops",
+		"url": "https://github.com/WollyDev24/YouShade/blob/main/assets/wallpaper/Springtime%20%20%281%29.png?raw=true",
+		"collections": "FLOWERS",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
 	}
 ]
