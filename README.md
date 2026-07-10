@@ -44,15 +44,7 @@
     <img src="assets/obtainium.png" alt="Get it on Obtainium" height="60" /></a>
   <a href="https://github.com/WollyDev24/YouShade/releases/latest">
     <img src="assets/github.webp" alt="Get it on GitHub" height="60" /></a>
-  <a href="https://fdroid.org">
-<!--    <img src="assets/fdroid.png" alt="Get it on Fdroid" height="60" /></a> 
-</a> -->
 </p>
-
-
-<!-- <p align="center">
-  <img src="assets/banner.png" alt="App Banner" width="512"/>
-</p> -->
 
 # 🛠️ Good to know stuff
 
