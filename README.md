@@ -45,8 +45,8 @@
   <a href="https://github.com/WollyDev24/YouShade/releases/latest">
     <img src="assets/github.webp" alt="Get it on GitHub" height="60" /></a>
   <a href="https://fdroid.org">
-<!--    <img src="assets/fdroid.png" alt="Get it on Fdroid" height="60" /></a> -->
-  </a>
+<!--    <img src="assets/fdroid.png" alt="Get it on Fdroid" height="60" /></a> 
+</a> -->
 </p>
 
 
