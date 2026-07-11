@@ -7,6 +7,9 @@ on:
         description: "Version name (e.g., 1.0.0)"
         required: true
         default: "1.0.0"
+      release_notes:
+        description: "Changes in this release (supports Markdown)"
+        required: true
 
 permissions:
   contents: write
@@ -43,6 +46,7 @@ jobs:
         with:
           tag_name: v${{ github.event.inputs.release_version }}
           name: Release ${{ github.event.inputs.release_version }}
+          body: ${{ github.event.inputs.release_notes }}
           files: Kuper/app/build/outputs/apk/release/*.apk
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
