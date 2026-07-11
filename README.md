@@ -55,7 +55,7 @@
 ### if you just want the widgets and no app:
 - All widgets are in ``Kuper/app/src/assets/widgets``. just remove the .zip from every file to use them
 
-### All wallpaper of the app are in ``Kuper/app/src/assets/wallpapers``
+### All wallpaper of the app are in ``assets/wallpapers``
 
 ### building the app from source:
 
