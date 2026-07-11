@@ -1,10 +1,10 @@
-name: Build Release APK
+name: Build and Release Android App
 
 on:
   workflow_dispatch:
     inputs:
-      version:
-        description: 'Release Version'
+      release_version:
+        description: 'Version name (e.g., 1.0.0)'
         required: true
         default: '1.0.0'
 
@@ -21,13 +21,17 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Build Release APK
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build with Gradle
         run: ./gradlew assembleRelease
 
-      - name: Create GitHub Release
+      - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v${{ github.event.inputs.version }}
+          tag_name: v${{ github.event.inputs.release_version }}
+          name: Release ${{ github.event.inputs.release_version }}
           files: app/build/outputs/apk/release/*.apk
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
