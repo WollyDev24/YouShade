@@ -41,14 +41,24 @@ android {
         }
     }
 
+    signingConfigs {
+        release {
+            storeFile file("release.jks")
+            storePassword System.getenv("KEYSTORE_PASSWORD")
+            keyAlias System.getenv("KEY_ALIAS")
+            keyPassword System.getenv("KEY_PASSWORD")
+        }
+    }
+
     buildTypes {
         buildTypes.each {
             it.buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         }
         release {
+            signingConfig signingConfigs.release
             debuggable false
             zipAlignEnabled true
-            minifyEnabled true
+            minifyEnabled false
             shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
