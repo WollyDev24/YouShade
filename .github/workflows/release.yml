@@ -1,4 +1,4 @@
-name: Build and Release Android App
+name: Build and Release YouShade
 
 on:
   workflow_dispatch:
@@ -21,17 +21,17 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Grant execute permission for gradlew
-        run: chmod +x gradlew
+      - name: permission for gradlew
+        run: chmod +x Kuper/gradlew
 
       - name: Build with Gradle
-        run: ./gradlew assembleRelease
+        run: cd Kuper && ./gradlew assembleRelease
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ github.event.inputs.release_version }}
           name: Release ${{ github.event.inputs.release_version }}
-          files: app/build/outputs/apk/release/*.apk
+          files: Kuper/app/build/outputs/apk/release/*.apk
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
