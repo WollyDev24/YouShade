@@ -72,4 +72,4 @@ git clone https://github.com/WollyDev24/YouShade/
 ```bash
 ./add_wallpaper.sh 
 ```
-- - Script tells you what to do next
+- Script tells you what to do next
