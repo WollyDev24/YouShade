@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.4" />
+    <item text="Added: Dashboard Widget" />
+    <item text="Added: Clock Widget" />
+
     <version title="v1.3" />
     <item text="Added: Multi Size Music Widget" />
 

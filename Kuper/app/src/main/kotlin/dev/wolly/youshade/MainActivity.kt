@@ -1,5 +1,7 @@
 package dev.wolly.youshade
 
+import android.os.Bundle
+import androidx.core.content.ContextCompat
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.kuper.ui.activities.KuperActivity
 
@@ -30,6 +32,20 @@ class MainActivity : KuperActivity() {
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
         return null
+    }
+
+    override fun shouldShowToolbarLogo(itemId: Int): Boolean = false
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        supportActionBar?.let { ab ->
+            ContextCompat.getDrawable(this, R.drawable.toolbar_icon)?.let {
+                ab.setHomeAsUpIndicator(it)
+                ab.setDisplayShowHomeEnabled(true)
+                ab.setDisplayUseLogoEnabled(true)
+            }
+            ab.setDisplayShowTitleEnabled(true)
+        }
     }
 
     override fun defaultTheme(): Int = R.style.MyApp_Default

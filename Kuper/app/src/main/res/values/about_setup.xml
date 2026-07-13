@@ -13,10 +13,10 @@
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Github</item>
+        <item>Github|Telegram</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://github.com/WollyDev24/</item>
+        <item>https://github.com/WollyDev24/|https://t.me/YouShades</item>
     </string-array>
 </resources>
